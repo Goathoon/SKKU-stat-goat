@@ -4,7 +4,7 @@
     "description": "��S\u0000t\u0000a\u0000t\u0000 \u0000C\u0000o\u0000m\u0000m\u0000a\u0000n\u0000d\u0000\r\u0000 \u0000",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "jest"
     },
     "repository": {
         "type": "git",
@@ -18,5 +18,8 @@
     "homepage": "https://github.com/Goathoon/SKKU-stat-goat#readme",
     "bin": {
         "hi": "./main.js"
+    },
+    "devDependencies": {
+        "jest": "^29.1.2"
     }
 }
