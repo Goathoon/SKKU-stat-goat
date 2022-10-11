@@ -1,19 +1,22 @@
 {
-  "name": "skku-stat-goat",
-  "version": "1.0.0",
-  "description": "��S\u0000t\u0000a\u0000t\u0000 \u0000C\u0000o\u0000m\u0000m\u0000a\u0000n\u0000d\u0000\r\u0000 \u0000",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Goathoon/SKKU-stat-goat.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Goathoon/SKKU-stat-goat/issues"
-  },
-  "homepage": "https://github.com/Goathoon/SKKU-stat-goat#readme"
+    "name": "skku-stat-goat",
+    "version": "0.1.0",
+    "description": "��S\u0000t\u0000a\u0000t\u0000 \u0000C\u0000o\u0000m\u0000m\u0000a\u0000n\u0000d\u0000\r\u0000 \u0000",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Goathoon/SKKU-stat-goat.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Goathoon/SKKU-stat-goat/issues"
+    },
+    "homepage": "https://github.com/Goathoon/SKKU-stat-goat#readme",
+    "bin": {
+        "hi": "./main.js"
+    }
 }
