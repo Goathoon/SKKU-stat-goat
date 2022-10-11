@@ -1,0 +1,25 @@
+{
+    "name": "skku-stat-goat",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Goathoon/SKKU-stat-goat.git"
+    },
+    "author": "KimTaeHoon",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Goathoon/SKKU-stat-goat/issues"
+    },
+    "homepage": "https://github.com/Goathoon/SKKU-stat-goat#readme",
+    "bin": {
+        "stat": "./main.js"
+    },
+    "devDependencies": {
+        "jest": "^29.1.2"
+    }
+}
